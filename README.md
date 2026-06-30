@@ -15,6 +15,7 @@ Tested on Pixel 8 Pro with GCam [10.3.183.888945295.14](https://www.apkmirror.co
 | **Night Sight Video**         |  ❌  |      ✅       |  ✅  |      ✅       |  ✅   |
 | **4K 60FPS Video Boost**      |  ❌  |      ✅       |  ✅  |      ✅       |  ✅   |
 | **8K 30FPS Video Boost**      |  ❌  |      ✅       |  ✅  |      ✅       |  ✅   |
+| **Pro Stable Video Boost**    |  ❌  |      ✅       |  ✅  |      ✅       |  ✅   |
 | **Tele lens in Video Boost**  |  ❌  |      ❌       |  ✅  |      ✅       |  ✅   |
 | **8K 24FPS Video Boost**      |  ❌  |      ✅       |  ❌  |      ✅       |  ✅   |
 | **Camera Coach**              |  ❌  |      ✅       |  ❌  |      ✅       |  ✅   |
